@@ -1,0 +1,5 @@
+https://dev.mysql.com/downloads/windows/installer/8.0.html - FOr windows user 
+
+https://dev.mysql.com/downloads/workbench/ - non windows user 
+
+https://docs.google.com/document/d/18CC8vSvQNHZ7iI7gTbKbBJdGCY2dVNjZ/edit?usp=sharing&ouid=111840944180463951908&rtpof=true&sd=true
